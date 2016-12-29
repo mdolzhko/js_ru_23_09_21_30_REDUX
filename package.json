@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/romabelka/js_ru_23_09_21_30"
+    "url": "git+https://github.com/mdolzhko/js_ru_23_09_21_30_REDUX.git"
   },
-  "author": "",
+  "author": "Max: copied from Roman Iakobchuk",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/romabelka/js_ru_23_09_21_30"
+    "url": "https://github.com/mdolzhko/js_ru_23_09_21_30_REDUX.git"
   },
-  "homepage": "https://github.com/romabelka/js_ru_23_09_21_30",
+  "homepage": "https://github.com/mdolzhko/js_ru_23_09_21_30_REDUX.git",
   "devDependencies": {
     "babel-core": "^6.13.2",
     "babel-loader": "^6.2.4",
